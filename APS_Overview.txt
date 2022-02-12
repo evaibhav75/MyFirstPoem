@@ -1,0 +1,21 @@
+APS - Application Platform Serives
+Part of CPD - Cloud Paltform Department
+
+Legacy Business Critical Platform
+1) ROS  - Resource Based Container Systems - Mesos based 
+
+2) ZXD - Kubernetes Based Platform  
+	CaaS - Container as a Service
+
+ Migration of Legacy services to Rakuten One Cloud (AWS like pvt cloud)
+
+ Services being added - e.g. Redis as a Service went Beta live
+
+APS India:
+1) ROS   2) ZXD   3) CDN (content delivery n/w) 
+4) HA Proxy Team   5) Exalogic team - BE Team for One cloud
+
+Build and Support
+Forecasting (competitive with AWS) 
+Team growith (ICs, engg leaders)
+Making sure team is available
